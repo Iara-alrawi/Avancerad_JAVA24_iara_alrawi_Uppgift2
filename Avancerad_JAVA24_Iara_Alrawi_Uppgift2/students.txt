@@ -1,0 +1,3 @@
+567,Iara alrawi,100.0
+789,Rebecka tallberg,90.0
+98,Sammar alrawi,80.0
